@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://misaka-umi.github.io</id>
     <title>攸弥写字的地方。</title>
-    <updated>2020-05-30T10:54:39.510Z</updated>
+    <updated>2020-05-30T13:44:07.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://misaka-umi.github.io"/>
     <link rel="self" href="https://misaka-umi.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://misaka-umi.github.io/images/avatar.png</logo>
     <icon>https://misaka-umi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 攸弥写字的地方。</rights>
+    <entry>
+        <title type="html"><![CDATA[那些曾爱过的少年。]]></title>
+        <id>https://misaka-umi.github.io/post/na-xie-ceng-ai-guo-de-shao-nian/</id>
+        <link href="https://misaka-umi.github.io/post/na-xie-ceng-ai-guo-de-shao-nian/">
+        </link>
+        <updated>2020-05-30T13:37:09.000Z</updated>
+        <content type="html"><![CDATA[<p>“既然已分开两边，这爱不如忘了吧”<br>
+　　今天听到一首熟悉的歌，又想到了曾经爱过的那些少年。说来也许不会被相信，有很多日夜我都关心着他们的过去与未来，嘲弄此间少年不再有翩翩白衣，回眸那些水性杨花的岁月。<br>
+　　在那之后过去了很久很久，那个追求着红酒宝马的少年鬓间生白发，那个永远十八的少年也不再保有稚嫩又骄傲的少年气。可人们还是热衷于他们的过去，看着他们一年又一年挑起烽火，在重要的日子揭起那些伤疤，甚至等着那个人说出最后一声“对不起”。<br>
+　　去年那个圆了自己梦想的，所有的投资全线崩盘，自称患了抑郁症，从此从人们的视野里消失了。直到现在，依然没有回来。逐渐的，人们开始忘掉这些事，忘掉所谓的意难平，忘掉了那些往事。<br>
+　　记忆里的少年们已经远去，他们再也不是清韵里两颗闪耀的星了。一个关掉了微博从人们视野里消失；一个很少创作，拿出来的作品不堪入目到连粉丝都不愿承认这是他的水平。他们的故事已经延续了太久，有太多写他们的作品，有太多讲述这些故事的歌曲，可那个他们的名字可以放在一起的时代已经一去不复返了。这个世界惹人伤心的故事那样多，随便哪一个都可以感慨自己的青春岁月，看客们到底还是散去了。<br>
+　　只是偶尔听到他们的歌曲时，会想起那些清冷的雨，灯光摇曳着，耳边是熟悉的旋律。</p>
+<p>P.S.写到最后想起过去还热衷于这些少年时写的如下一小段文字，其实一直以来都知道，那些少年是谁并无所谓。<br>
+　　“清韵一见即知交”<br>
+　　原本这不过是黑夜下很普通的一颗星，但他们笔下的故事却把两人的感情推向纷纭。但把之后的纷杂放下，浅浅地回望这相遇，鹧鸪天与猴子的故事大约会很美。<br>
+　　有太多一拍即合，但有多少从此知交。有太多难忘的故事，这之间有多少是两个人的内心中怀着同样的心。假如镜头再次落到清韵，换上万众期待的皮影，那个鹧鸪天是心心念念的鹧鸪天，那个今何在是众人心中的猴子，似乎会演出一场皎洁的甜蜜。<br>
+　　“不要拿我的酒浇你心中的块垒”<br>
+　　我想每一个真情实感之下都深深地藏着不一样的意难平。太多的人，包括我，只是像这句话一样，消费着他人纠缠着心绪的过去。<br>
+　　说到底，只是那些轻佻往事，还有那些背道而驰。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于自由]]></title>
         <id>https://misaka-umi.github.io/post/guan-yu-zi-you/</id>
