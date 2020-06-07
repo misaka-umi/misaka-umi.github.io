@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://misaka-umi.github.io</id>
     <title>攸弥写字的地方。</title>
-    <updated>2020-06-07T01:18:51.804Z</updated>
+    <updated>2020-06-07T01:25:23.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://misaka-umi.github.io"/>
     <link rel="self" href="https://misaka-umi.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 攸弥写字的地方。</rights>
     <entry>
         <title type="html"><![CDATA[《盛世》未成的思考]]></title>
-        <id>https://misaka-umi.github.io/post/lesslesssheng-shi-greatergreater-wei-cheng-de-si-kao/</id>
-        <link href="https://misaka-umi.github.io/post/lesslesssheng-shi-greatergreater-wei-cheng-de-si-kao/">
+        <id>https://misaka-umi.github.io/post/desolate/</id>
+        <link href="https://misaka-umi.github.io/post/desolate/">
         </link>
         <updated>2020-06-07T01:03:53.000Z</updated>
         <content type="html"><![CDATA[<p>今天本想写一篇叫《盛世》的小短文的，无论是表达也好宣泄也好，然而第一段写到一半就卡住了。这听起来似乎蛮奇怪的，明明感觉自己想说的话有很多很多，但是真的想把它转化成故事之后却总是继续不下去。</p>
@@ -30,8 +30,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[那些曾爱过的少年。]]></title>
-        <id>https://misaka-umi.github.io/post/na-xie-ceng-ai-guo-de-shao-nian/</id>
-        <link href="https://misaka-umi.github.io/post/na-xie-ceng-ai-guo-de-shao-nian/">
+        <id>https://misaka-umi.github.io/post/jnjhzszd/</id>
+        <link href="https://misaka-umi.github.io/post/jnjhzszd/">
         </link>
         <updated>2020-05-30T13:37:09.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -55,8 +55,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于自由]]></title>
-        <id>https://misaka-umi.github.io/post/guan-yu-zi-you/</id>
-        <link href="https://misaka-umi.github.io/post/guan-yu-zi-you/">
+        <id>https://misaka-umi.github.io/post/about-freedom/</id>
+        <link href="https://misaka-umi.github.io/post/about-freedom/">
         </link>
         <updated>2020-05-30T05:05:17.000Z</updated>
         <content type="html"><![CDATA[<p>我相信终会有一天，自由会降临在这片土地。因此，我只是在记录这个多灾多难的年代，记录这个没有自由的时代。</p>
@@ -104,8 +104,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[相信未来。]]></title>
-        <id>https://misaka-umi.github.io/post/xiang-xin-wei-lai/</id>
-        <link href="https://misaka-umi.github.io/post/xiang-xin-wei-lai/">
+        <id>https://misaka-umi.github.io/post/future/</id>
+        <link href="https://misaka-umi.github.io/post/future/">
         </link>
         <updated>2020-05-29T11:29:41.000Z</updated>
         <content type="html"><![CDATA[<p>很久就想做这个博客了，当时不知遇到了什么问题只好作罢。今天拖地时想起来，决定重新开始写点什么。</p>
