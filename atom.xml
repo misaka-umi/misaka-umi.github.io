@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://misaka-umi.github.io</id>
     <title>攸弥写字的地方。</title>
-    <updated>2020-08-12T10:32:52.585Z</updated>
+    <updated>2020-08-12T10:34:18.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://misaka-umi.github.io"/>
     <link rel="self" href="https://misaka-umi.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 攸弥写字的地方。</rights>
     <entry>
         <title type="html"><![CDATA[一首欢快的歌曲]]></title>
-        <id>https://misaka-umi.github.io/post/yi-shou-huan-kuai-de-ge-qu/</id>
-        <link href="https://misaka-umi.github.io/post/yi-shou-huan-kuai-de-ge-qu/">
+        <id>https://misaka-umi.github.io/post/thegreatdynasty/</id>
+        <link href="https://misaka-umi.github.io/post/thegreatdynasty/">
         </link>
         <updated>2020-08-12T09:19:38.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=fKYfH3N9KzA">一首欢快的歌曲</a></p>
