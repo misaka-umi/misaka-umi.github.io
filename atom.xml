@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://misaka-umi.github.io</id>
-    <title>攸弥写字的地方。</title>
-    <updated>2020-08-12T10:34:18.482Z</updated>
+    <title>攸弥写字的地方</title>
+    <updated>2020-08-12T10:37:25.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://misaka-umi.github.io"/>
     <link rel="self" href="https://misaka-umi.github.io/atom.xml"/>
     <subtitle>相信未来。</subtitle>
     <logo>https://misaka-umi.github.io/images/avatar.png</logo>
     <icon>https://misaka-umi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 攸弥写字的地方。</rights>
+    <rights>All rights reserved 2020, 攸弥写字的地方</rights>
     <entry>
         <title type="html"><![CDATA[一首欢快的歌曲]]></title>
         <id>https://misaka-umi.github.io/post/thegreatdynasty/</id>
